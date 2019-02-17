@@ -1,6 +1,9 @@
-.smusher{
-	width: 50%;
-  	margin: 0 auto;
+@media (min-width: 1001px) {
+    .smusher{
+        width: 50%;
+        margin: 0 auto;
+    }
 }
+
 
 
