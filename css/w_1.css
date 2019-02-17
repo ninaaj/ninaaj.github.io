@@ -2,11 +2,30 @@
 	width: 50%;
 	margin: 0px auto 30px auto;
 }
+.dates {
+	float: right;
+	font-size: 15px;
+	font-weight: lighter
+}
+.greeting {
+	font-family: 'ssd';
+	font-size: 100px;
+	font-weight: bold;
+	width: 60%;
+	margin: 0 auto;
+}
+.project {
+	float: left;
+	width: 33.33%
+}
 .smusher{
     width: 50%;
     margin: 0 auto;
 }
 	
+
+
+
 
 
 
