@@ -37,6 +37,7 @@
 	margin: 25px auto
 }
 .overlay nav {
+	 padding: auto auto auto 0;
     font-size: 30px
 }
 .project {
