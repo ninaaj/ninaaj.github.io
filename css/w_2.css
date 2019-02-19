@@ -1,1 +1,50 @@
-.about{width:100%;margin:0px auto 30px auto}.card{width:65%;margin:30px 20px;margin:0 auto}.dates{float:right;font-weight:100}.experience-section .dates{float:none}.greeting{font-family:'ssd';font-size:70px;font-weight:bold;width:100%;margin:0 auto}.grid-container{display:grid;grid-template-columns:auto auto;grid-gap:5px;padding:0;overflow:hidden}.overlay.open li{margin:25px auto;animation:fadeInRight .5s ease forwards;animation-delay: .35s}.project{width:100%;margin:0 auto}.smusher{width:100%;margin:0 auto}
+.about {
+    width: 100%;
+    overflow-x: hidden
+}
+.card {
+	width: 65%;
+    overflow-x: hidden
+}
+.dates {
+    float: right;
+    font-weight: 100;
+    overflow-x: hidden
+}
+.experience-section .dates {
+    float: none;
+    overflow-x: hidden
+}
+
+.greeting {
+	font-size: 70px;
+	width: 100%;
+    overflow-x: hidden
+}
+.grid-container {
+    padding: 0;
+    overflow-x: hidden
+}
+.navbar {
+    padding: 10px 10px 0 10px;
+    overflow-x: hidden
+}
+.navbar-buttons {
+    float: left;
+    overflow-x: hidden
+}
+.overlay.open li {
+	margin: 25px auto
+}
+.overlay nav {
+    font-size: 30px
+}
+.project {
+    width: 100%;
+    margin: 0 auto;
+    overflow-x: hidden
+}
+.smusher{
+    width: 100%;
+    overflow-x: hidden
+}
