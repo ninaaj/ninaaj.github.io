@@ -28,6 +28,9 @@
 .overlay nav {
 	font-size: 18px
 }
+.overlay ul {
+	margin: 0 0 0 40px
+}
 .project {
 	float: left;
 	width: 33.33%
