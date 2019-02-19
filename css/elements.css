@@ -16,7 +16,10 @@ a:hover {
 a:active {
 	color: #a44b4b
 }
-
+html, body {
+    max-width: 100%;
+    overflow-x: hidden
+}
 body {
 	font-family: sans-serif;
 	font-weight: lighter;
